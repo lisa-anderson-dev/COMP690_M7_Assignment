@@ -51,7 +51,6 @@ form.addEventListener('submit', (e) => {
     let cellDelete = row.insertCell();
     cellDelete.appendChild(deleteBtn);
 
-
     // RESET THE FORM
 
     form.reset();
